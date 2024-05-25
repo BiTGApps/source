@@ -29,5 +29,5 @@ License terms used by the BiTGApps installer and Pre-built Packages
 ***
 
 <div align="center">
-  <b>A project by <a href="https://thehitman7.github.io">TheHitMan7</a> with <span>&#128150;</span></b>
+  <b>A Project by <a href="https://thehitman7.github.io">TheHitMan7</a> with <span>&#10084;&#65039;</span></b>
 </div>

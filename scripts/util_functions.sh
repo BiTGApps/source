@@ -4,7 +4,7 @@
 version=""
 
 # Define Installation Size
-CAPACITY="@CAPACITY@"
+CAPACITY=""
 
 print_title() {
   local LEN ONE TWO BAR
